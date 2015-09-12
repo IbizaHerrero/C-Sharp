@@ -51,6 +51,7 @@
             // 
             // textBox1
             // 
+            this.textBox1.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.textBox1.Location = new System.Drawing.Point(11, 25);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(364, 20);
@@ -59,7 +60,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.White;
+            this.label1.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(85, 13);
@@ -79,7 +80,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.White;
+            this.label2.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.label2.Location = new System.Drawing.Point(12, 83);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(115, 13);
@@ -89,7 +90,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.BackColor = System.Drawing.Color.White;
+            this.label3.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.label3.Location = new System.Drawing.Point(12, 107);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(99, 13);
@@ -99,7 +100,7 @@
             // radioButton1
             // 
             this.radioButton1.AutoSize = true;
-            this.radioButton1.BackColor = System.Drawing.Color.White;
+            this.radioButton1.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.radioButton1.Location = new System.Drawing.Point(15, 128);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(46, 17);
@@ -111,7 +112,7 @@
             // radioButton2
             // 
             this.radioButton2.AutoSize = true;
-            this.radioButton2.BackColor = System.Drawing.Color.White;
+            this.radioButton2.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.radioButton2.Location = new System.Drawing.Point(97, 128);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(67, 17);
@@ -123,7 +124,7 @@
             // radioButton3
             // 
             this.radioButton3.AutoSize = true;
-            this.radioButton3.BackColor = System.Drawing.Color.White;
+            this.radioButton3.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.radioButton3.Location = new System.Drawing.Point(187, 128);
             this.radioButton3.Name = "radioButton3";
             this.radioButton3.Size = new System.Drawing.Size(76, 17);
@@ -135,7 +136,7 @@
             // radioButton4
             // 
             this.radioButton4.AutoSize = true;
-            this.radioButton4.BackColor = System.Drawing.Color.White;
+            this.radioButton4.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.radioButton4.Location = new System.Drawing.Point(287, 128);
             this.radioButton4.Name = "radioButton4";
             this.radioButton4.Size = new System.Drawing.Size(89, 17);
@@ -147,7 +148,7 @@
             // radioButton5
             // 
             this.radioButton5.AutoSize = true;
-            this.radioButton5.BackColor = System.Drawing.Color.White;
+            this.radioButton5.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.radioButton5.Location = new System.Drawing.Point(15, 151);
             this.radioButton5.Name = "radioButton5";
             this.radioButton5.Size = new System.Drawing.Size(66, 17);
@@ -158,6 +159,7 @@
             // 
             // textBox2
             // 
+            this.textBox2.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.textBox2.Location = new System.Drawing.Point(133, 80);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(31, 20);
@@ -169,7 +171,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.BackColor = System.Drawing.Color.White;
+            this.label4.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.label4.Location = new System.Drawing.Point(12, 171);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(76, 13);
@@ -179,7 +181,7 @@
             // radioButton6
             // 
             this.radioButton6.AutoSize = true;
-            this.radioButton6.BackColor = System.Drawing.Color.White;
+            this.radioButton6.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.radioButton6.Location = new System.Drawing.Point(287, 151);
             this.radioButton6.Name = "radioButton6";
             this.radioButton6.Size = new System.Drawing.Size(51, 17);
@@ -191,7 +193,7 @@
             // radioButton7
             // 
             this.radioButton7.AutoSize = true;
-            this.radioButton7.BackColor = System.Drawing.Color.White;
+            this.radioButton7.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.radioButton7.Location = new System.Drawing.Point(187, 151);
             this.radioButton7.Name = "radioButton7";
             this.radioButton7.Size = new System.Drawing.Size(42, 17);
@@ -203,7 +205,7 @@
             // radioButton8
             // 
             this.radioButton8.AutoSize = true;
-            this.radioButton8.BackColor = System.Drawing.Color.White;
+            this.radioButton8.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.radioButton8.Location = new System.Drawing.Point(97, 151);
             this.radioButton8.Name = "radioButton8";
             this.radioButton8.Size = new System.Drawing.Size(51, 17);
@@ -215,7 +217,7 @@
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.BackColor = System.Drawing.Color.White;
+            this.checkBox1.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.checkBox1.Location = new System.Drawing.Point(15, 187);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(66, 17);
@@ -227,7 +229,7 @@
             // checkBox2
             // 
             this.checkBox2.AutoSize = true;
-            this.checkBox2.BackColor = System.Drawing.Color.White;
+            this.checkBox2.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.checkBox2.Location = new System.Drawing.Point(97, 187);
             this.checkBox2.Name = "checkBox2";
             this.checkBox2.Size = new System.Drawing.Size(48, 17);
@@ -239,7 +241,7 @@
             // checkBox3
             // 
             this.checkBox3.AutoSize = true;
-            this.checkBox3.BackColor = System.Drawing.Color.White;
+            this.checkBox3.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.checkBox3.Location = new System.Drawing.Point(187, 187);
             this.checkBox3.Name = "checkBox3";
             this.checkBox3.Size = new System.Drawing.Size(53, 17);
@@ -251,12 +253,12 @@
             // checkBox4
             // 
             this.checkBox4.AutoSize = true;
-            this.checkBox4.BackColor = System.Drawing.Color.White;
+            this.checkBox4.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.checkBox4.Location = new System.Drawing.Point(287, 187);
             this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(54, 17);
+            this.checkBox4.Size = new System.Drawing.Size(66, 17);
             this.checkBox4.TabIndex = 26;
-            this.checkBox4.Text = "SHA1";
+            this.checkBox4.Text = "SHA256";
             this.checkBox4.UseVisualStyleBackColor = false;
             this.checkBox4.CheckedChanged += new System.EventHandler(this.checkBox4_CheckedChanged);
             // 
@@ -264,7 +266,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Black;
+            this.BackColor = System.Drawing.SystemColors.InactiveCaption;
             this.ClientSize = new System.Drawing.Size(388, 212);
             this.Controls.Add(this.checkBox4);
             this.Controls.Add(this.checkBox3);
@@ -288,7 +290,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Form1";
             this.ShowIcon = false;
-            this.Text = "RKEYGEN";
+            this.Text = "[R]KEYGEN";
             this.ResumeLayout(false);
             this.PerformLayout();
 
